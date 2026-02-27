@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 > **Speeding Up Sequential Markov Chain Monte Carlo Methods in the Context of Large Volumes of Data from Distributed Sensor Networks**  
 
-published in the International Journal of Advanced Sensor Networks.
+published in the International Journal of Distributed Sensor Networks.
 
 The full-text is available: https://doi.org/10.1155/dsn/6527524
 
